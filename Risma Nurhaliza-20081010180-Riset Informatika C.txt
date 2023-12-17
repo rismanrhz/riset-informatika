@@ -3,63 +3,33 @@ NPM : 20081010180
 
 RISET INFORMATIKA C
 
-Judul Penelitian : Pengembangan Sistem Rekomendasi Makanan Untuk Penderita Diabetes Melitus dengan Algoritma Hybrid Approach Berbasis Website
+Judul Penelitian : Sistem Rekomendasi Makanan Sesuai Budget Bagi Wisatawan Menggunakan Algoritma Genetika Berbasis Website ( Studi Kasus : Kecamatan Genteng Dan Bubutan Surabaya )
 
 
 1. Mengidentifikasi persoalan praktis yang perlu diselesaikan dalam penelitian tersebut.
 
+Penelitian ini bertujuan untuk mengatasi beberapa persoalan praktis yang dihadapi oleh wisatawan yang berkunjung ke kecamatan Genteng dan Bubutan di Surabaya terkait dengan pemilihan makanan sesuai dengan anggaran (budget) yang dimiliki. Beberapa persoalan praktis yang mungkin dihadapi antara lain:
 
-a. Manajemen Gizi yang Tepat: Penderita diabetes melitus perlu mengatur asupan makanan mereka dengan sangat hati-hati. Sistem rekomendasi makanan yang tepat dapat membantu mereka memilih makanan yang sesuai dengan kebutuhan gizi mereka, termasuk mengontrol kadar gula darah.
-b. Variasi Menu: Salah satu masalah yang sering dihadapi penderita diabetes adalah kebosanan dalam pola makan mereka. Sistem rekomendasi makanan ini dapat membantu mereka menemukan variasi menu yang sesuai dengan aturan diet mereka.
-c. Personalisasi: Setiap penderita diabetes memiliki kebutuhan yang berbeda-beda. Sistem ini dapat memberikan rekomendasi yang lebih personal berdasarkan profil individu, seperti usia, jenis kelamin, berat badan, tingkat aktivitas fisik, dan kondisi kesehatan yang lain.
-d. Penggunaan Algoritma Hybrid: Dengan menggunakan algoritma hybrid, sistem ini dapat memberikan rekomendasi yang lebih akurat dan relevan. Penggabungan berbagai metode rekomendasi seperti kolaboratif dan berbasis konten dapat meningkatkan kualitas rekomendasi.
+a. Kurangnya informasi yang jelas tentang opsi makanan yang sesuai dengan budget wisatawan.
+b. Kesulitan wisatawan dalam menyesuaikan preferensi kuliner dengan ketersediaan makanan di daerah tersebut.
+c. Keterbatasan waktu dan sumber daya wisatawan untuk mencari tempat makan yang sesuai dengan budget dan preferensi mereka.
 
 
 2. Merumuskan beberapa "research questions" yang menjadi fokus penelitian.
 
+Berdasarkan identifikasi persoalan praktis di atas, beberapa research questions yang dapat difokuskan dalam penelitian ini meliputi:
 
-a. Bagaimana kita dapat mengembangkan sebuah sistem rekomendasi makanan yang tepat untuk penderita diabetes melitus berdasarkan asupan gizi mereka?
-b. Bagaimana kita dapat mengintegrasikan berbagai algoritma dalam pendekatan hybrid untuk meningkatkan akurasi rekomendasi makanan untuk penderita diabetes?
-c. Bagaimana sistem ini dapat dipersonalisasi untuk mengakomodasi kebutuhan individu penderita diabetes, seperti usia, jenis kelamin, berat badan, tingkat aktivitas fisik, dan kondisi kesehatan lainnya?
-d. Bagaimana sistem ini dapat digunakan sebagai alat untuk meningkatkan pemahaman penderita diabetes tentang pola makan yang sehat dan pengaruhnya terhadap kadar gula darah mereka?
-e. Bagaimana sistem ini dapat membantu penderita diabetes dalam memantau dan mengevaluasi dampak makanan yang mereka konsumsi terhadap kondisi kesehatan mereka?
+a. Apa saja opsi makanan yang tersedia di kecamatan Genteng dan Bubutan, Surabaya, yang sesuai dengan budget wisatawan?
+b. Bagaimana sistem rekomendasi makanan dapat membantu wisatawan memilih tempat makan yang sesuai dengan preferensi dan anggaran mereka?
+c. Bagaimana algoritma genetika dapat digunakan untuk meningkatkan efisiensi sistem rekomendasi makanan sesuai budget?
+d. Bagaimana respons dan pengalaman pengguna terhadap sistem rekomendasi makanan ini diimplementasikan dalam bentuk website?
 
 
 3. Teori yang mempunyai keterkaitan dengan topik yang telah diidentifikasi.
 
+Beberapa teori dan konsep yang relevan dengan topik penelitian ini meliputi:
 
-a. Teori Manajemen Gizi: Teori ini mencakup prinsip-prinsip dasar manajemen gizi, termasuk pengaturan asupan makanan, pengukuran nilai gizi, dan cara memenuhi kebutuhan gizi individu. Hal ini relevan dengan tujuan sistem rekomendasi untuk membantu penderita diabetes melitus mengatur asupan makanan mereka dengan tepat.
-b. Teori Algoritma Rekomendasi: Ini melibatkan berbagai algoritma yang digunakan dalam pengembangan sistem rekomendasi, seperti algoritma berbasis konten, kolaboratif, dan algoritma hybrid. Penjelasan tentang bagaimana algoritma ini bekerja dan bagaimana mereka dapat diterapkan dalam konteks rekomendasi makanan dapat membantu dalam pengembangan sistem.
-c. Teori Kesadaran Gizi dan Manajemen Diabetes: Teori ini membahas bagaimana pendidikan dan kesadaran tentang pola makan yang sehat dapat membantu penderita diabetes melitus dalam mengelola kondisi mereka. Ini dapat termasuk penelitian tentang efektivitas pendidikan kesehatan dalam meningkatkan pemahaman penderita diabetes.
-d. Teori Manajemen Diabetes: Teori ini mengulas berbagai aspek manajemen diabetes, termasuk diet, olahraga, pemantauan, dan pengendalian gula darah. Ini dapat membantu konteks pemahaman bagaimana sistem rekomendasi makanan dapat mendukung manajemen diabetes.
-
-
-Judul Penelitian : Rancang Bangun Sistem Rekomendasi Makanan Khusus untuk Penyakit Tertentu pada Lansia Menggunakan Machine Learning Berbasis Website
-
-
-1. Mengidentifikasi persoalan praktis yang perlu diselesaikan dalam penelitian tersebut.
-
-
-a. Ketersediaan Data: Untuk mengembangkan sistem rekomendasi makanan berbasis machine learning, Anda perlu mengumpulkan dan menyusun dataset makanan yang cukup besar dan berkualitas tinggi. Persoalan utama adalah mencari sumber data yang terpercaya dan mencakup berbagai jenis makanan yang relevan dengan penyakit tertentu pada lansia.
-b. Pengolahan Data: Data yang dikumpulkan harus diproses dan dibersihkan dengan baik sebelum digunakan dalam model machine learning. Hal ini dapat melibatkan normalisasi, penghapusan data yang hilang, dan ekstraksi fitur yang relevan.
-c. Pengidentifikasian Penyakit Tertentu pada Lansia: Anda perlu mengembangkan algoritma atau model machine learning yang dapat mengidentifikasi penyakit tertentu pada lansia berdasarkan data klinis atau gejala yang tersedia. Hal ini dapat melibatkan perubahan dan penyelarasan data yang kompleks.
-d. Kesesuaian dengan Panduan Diet Medis: Rekomendasi makanan yang diberikan oleh sistem harus sesuai dengan panduan diet medis yang berlaku untuk penyakit tertentu pada lansia. Ini memerlukan pemahaman mendalam tentang panduan diet yang berlaku dan kemampuan untuk mengintegrasikan informasi ini ke dalam model.
-
-
-2. Merumuskan beberapa "research questions" yang menjadi fokus penelitian. 
-
-
-a. Bagaimana cara mengumpulkan dan mengelola dataset makanan yang cukup besar dan berkualitas tinggi untuk digunakan dalam pengembangan sistem rekomendasi makanan khusus untuk penyakit tertentu pada lansia?
-b. Bagaimana kita dapat mengidentifikasi penyakit tertentu pada lansia berdasarkan data klinis atau gejala yang tersedia, dan bagaimana penyelarasan data dapat membantu dalam proses identifikasi ini?
-c. Bagaimana kita dapat mengembangkan model machine learning yang efektif untuk merekomendasikan makanan yang sesuai dengan penyakit tertentu pada lansia, dengan mempertimbangkan preferensi individu, batasan diet, dan panduan diet medis?
-
-
-3. Teori yang mempunyai keterkaitan dengan topik yang telah diidentifikasi. 
-
-
-a. Machine Learning dan Algoritma Rekomendasi:
-- Teori Dasar Machine Learning: Memahami konsep dasar seperti pengklasifikasian, regresi, clustering, dan algoritma pembelajaran mendalam (deep learning) yang dapat digunakan dalam pengembangan model machine learning.
-- Algoritma Rekomendasi: Memahami berbagai jenis algoritma rekomendasi seperti collaborative filtering, content-based filtering, dan hybrid filtering. Tinjau literatur mengenai cara-cara implementasinya dalam sistem rekomendasi makanan.
-b. Panduan Diet Medis dan Nutrisi:
-- Pengetahuan Tentang Diet Medis: Menjelaskan dasar-dasar panduan diet medis yang berlaku untuk penyakit tertentu pada lansia. Bahan bacaan ilmiah dari lembaga medis dan ahli gizi dapat mendukung pemahaman ini.
-c. Nutrisi dan Komposisi Makanan: Menyelidiki literatur yang mengenai komposisi nutrisi makanan dan bagaimana ini dapat mempengaruhi kesehatan lansia yang memiliki penyakit tertentu.
+a. Sistem Rekomendasi: Menyelidiki teori dan metode dalam pengembangan sistem rekomendasi makanan, khususnya yang berfokus pada preferensi dan budget pengguna.
+b. Algoritma Genetika: Memahami prinsip dan aplikasi algoritma genetika dalam konteks optimasi, dalam hal ini, pengoptimalan rekomendasi makanan.
+c. Pariwisata Kuliner: Memahami dinamika dan keunikan dalam konteks wisata kuliner, termasuk faktor-faktor yang memengaruhi keputusan pemilihan makanan oleh wisatawan.
+d. Interaksi Pengguna dan Pengalaman Pengguna (UI/UX): Menyelidiki konsep-konsep interaksi pengguna dan pengalaman pengguna dalam pengembangan website untuk memastikan sistem rekomendasi dapat digunakan dengan mudah dan memberikan pengalaman yang memuaskan bagi pengguna.
